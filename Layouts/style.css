@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.flex{
+    display: flex;
+}
+
+.white{
+    /* margin-right: 1950; */
+    /* position: absolute; */
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#titulo{
+    text-align: center;
+    font-size:xx-large;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    font-variant: normal;
+    color: white;
+}
+
+
+
+/* classes de pintura */
+.yo{
+    padding: 50;
+    margin: 20;
+    background-color: rgb(255, 255, 119);
+}
+
+.blu{
+    padding: 50;
+    margin: 20;
+    background-color: rgb(129, 129, 255);   
+}
+
+.red{
+    background-color: rgb(255, 136, 136);
+    padding-bottom: 200;
+}
+
+.purple{
+    background-color: rgb(223, 136, 255) ;
+    justify-content: center;
+}
+
+.green{
+    background-color: rgb(163, 250, 172);
+    padding-right: 190;
+}
