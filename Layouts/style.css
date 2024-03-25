@@ -22,8 +22,6 @@ body{
     color: white;
 }
 
-
-
 /* classes de pintura */
 .yo{
     padding: 50;
@@ -43,7 +41,7 @@ body{
 }
 
 .purple{
-    background-color: rgb(223, 136, 255) ;
+    background-color:  rgb(223, 136, 255) ;
     justify-content: center;
 }
 
